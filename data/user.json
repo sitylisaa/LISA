@@ -1,0 +1,16 @@
+[
+    {
+        "id": 1,
+        "email": "lisa@gmail.com",
+        "fullname": "WAODE SITI NURHALISA",
+        "password": "$2b$12$CMsRAqkfBBJV8sMlY4h0MuVbQoRulnDEq43xEp0GXr2nqj8qPWggK",
+        "role": "admin"
+    },
+    {
+        "id": 2,
+        "email": "icah@gmail.com",
+        "fullname": "icah",
+        "password": "$2b$12$9O2hl/LYVAZh6ul1ZP74ouc6ugphS/nG9EMRr7x8YGqocRzUNLnqO",
+        "role": "user"
+    }
+]
